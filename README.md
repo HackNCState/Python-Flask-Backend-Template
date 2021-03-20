@@ -67,7 +67,7 @@ These libraries are as follows:
 To install these into our virtual environment:
 
  1. Make sure your virtual environment is running.
- 2. Run this command `pip install request flask python-dotenv beautifulsoup4`
+ 2. Run this command `pip install requests flask python-dotenv beautifulsoup4`
  3. This will take some time but the libraries will be installed.
 
 ## We Are Now Ready to Start!
