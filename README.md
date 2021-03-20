@@ -68,3 +68,4 @@ To install these into our virtual environment:
  3. This will take some time but the libraries will be installed.
 
 ## We Are Now Ready to Start!
+[Develop!](https://github.com/PackHacks/Python-Flask-Backend-Template/blob/main/backend/jobsearcher/api/DEV.md)
