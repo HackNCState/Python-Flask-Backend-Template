@@ -31,12 +31,15 @@ From your initial project directory, open a terminal window (I'm using the integ
 ### Attending Both Backend and Frontend Workshops
 Run these commands:  
 `mkdir backend` <br>
+`cd backend` <br>
 `mkdir jobsearcher` <br>
+`cd jobsearcher` <br>
 `mkdir api`  
 
 ### Attending Only Backend Workshop 
 Run these commands:  
 `mkdir jobsearcher` <br>
+`cd jobsearcher` <br>
 `mkdir api`  
 
 ### Build Virtual Environment
